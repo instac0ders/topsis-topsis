@@ -14,3 +14,4 @@ go get github.com/pelletier/go-toml
 go get github.com/toorop/go-bittrex
 
 go install github.com/pelletier/go-toml
+go install github.com/toorop/go-bittrex
