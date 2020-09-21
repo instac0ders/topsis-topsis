@@ -19,3 +19,5 @@ go install github.com/toorop/go-bittrex
 ## Configuration
 
 See the trade-bot.conf file for configuration options
+
+## Run or Build from source
