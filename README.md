@@ -25,3 +25,7 @@ See the trade-bot.conf file for configuration options
 ```
 go run trade-bot.go
 ```
+or
+```
+go build trade-bot.go && ./trade-bot
+```
