@@ -2,4 +2,4 @@ package main
 
 import (
 	"fmt"
-	"github.com/pelletier/go-tom
+	"github.com/pelletier/go-toml"
