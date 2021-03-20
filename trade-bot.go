@@ -4,4 +4,4 @@ import (
 	"fmt"
 	"github.com/pelletier/go-toml"
 	"github.com/shopspring/decimal"
-	"github.com/toorop/go-
+	"github.com/toorop/go-bit
