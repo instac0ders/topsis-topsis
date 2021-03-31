@@ -6,3 +6,6 @@ import (
 	"github.com/shopspring/decimal"
 	"github.com/toorop/go-bittrex"
 	"time"
+)
+
+var c
