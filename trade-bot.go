@@ -8,4 +8,4 @@ import (
 	"time"
 )
 
-var con
+var config
