@@ -8,4 +8,4 @@ import (
 	"time"
 )
 
-var config, err 
+var config, err = toml.L
