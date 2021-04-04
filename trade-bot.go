@@ -8,4 +8,4 @@ import (
 	"time"
 )
 
-var config, err = toml.L
+var config, err = toml.Load
