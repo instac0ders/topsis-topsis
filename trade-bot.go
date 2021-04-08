@@ -8,4 +8,4 @@ import (
 	"time"
 )
 
-var config, err = toml.LoadFile("trad
+var config, err = toml.LoadFile("trade-bot
