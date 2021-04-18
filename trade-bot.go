@@ -9,4 +9,4 @@ import (
 )
 
 var config, err = toml.LoadFile("trade-bot.conf")
-var configTree = config.Get(
+var configTree = config.Get("c
