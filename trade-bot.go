@@ -10,4 +10,4 @@ import (
 
 var config, err = toml.LoadFile("trade-bot.conf")
 var configTree = config.Get("config").(*toml.Tree)
-var base_coin = config
+var base_coin = configTree.
