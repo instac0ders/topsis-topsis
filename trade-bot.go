@@ -13,4 +13,4 @@ var configTree = config.Get("config").(*toml.Tree)
 var base_coin = configTree.Get("base_coin").(string)
 var market_coin = configTree.Get("market_coin").(string)
 var api_version = configTree.Get("api_version").(string)
-var base_url = configTree.Get("base_url").(
+var base_url = configTree.Get("base_url").(str
