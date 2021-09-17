@@ -17,4 +17,4 @@ var base_url = configTree.Get("base_url").(string)
 var api_key = configTree.Get("api_key").(string)
 var api_secret = configTree.Get("api_secret").(string)
 var last_sell = configTree.Get("last_sell").(float64)
-var t
+var target_
