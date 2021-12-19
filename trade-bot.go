@@ -19,4 +19,5 @@ var api_secret = configTree.Get("api_secret").(string)
 var last_sell = configTree.Get("last_sell").(float64)
 var target_sell = configTree.Get("target_sell").(float64)
 
-// Inititalize the Bittrex client using credentials found in loaded config 
+// Inititalize the Bittrex client using credentials found in loaded config file
+v
