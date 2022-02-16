@@ -22,4 +22,4 @@ var target_sell = configTree.Get("target_sell").(float64)
 // Inititalize the Bittrex client using credentials found in loaded config file
 var bittrex_client = bittrex.New(api_key, api_secret)
 
-func doEvery(d time.Duration, f func
+func doEvery(d time.Duration, f func(tim
