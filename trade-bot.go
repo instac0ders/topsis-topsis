@@ -24,4 +24,4 @@ var bittrex_client = bittrex.New(api_key, api_secret)
 
 func doEvery(d time.Duration, f func(time.Time)) {
 	for x := range time.Tick(d) {
-		
+		f(
