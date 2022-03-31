@@ -27,3 +27,5 @@ func doEvery(d time.Duration, f func(time.Time)) {
 		f(x)
 	}
 }
+
+fun
