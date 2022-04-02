@@ -28,4 +28,4 @@ func doEvery(d time.Duration, f func(time.Time)) {
 	}
 }
 
-fun
+func g
