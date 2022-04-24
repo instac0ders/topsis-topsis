@@ -29,4 +29,4 @@ func doEvery(d time.Duration, f func(time.Time)) {
 }
 
 func get_balance() string {
-	base_coin_ba
+	base_coin_balan
