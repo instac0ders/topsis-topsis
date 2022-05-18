@@ -30,4 +30,4 @@ func doEvery(d time.Duration, f func(time.Time)) {
 
 func get_balance() string {
 	base_coin_balance, _ := bittrex_client.GetBalance(base_coin)
-	market_coi
+	market_coin_b
