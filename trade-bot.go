@@ -31,4 +31,4 @@ func doEvery(d time.Duration, f func(time.Time)) {
 func get_balance() string {
 	base_coin_balance, _ := bittrex_client.GetBalance(base_coin)
 	market_coin_balance, _ := bittrex_client.GetBalance(market_coin)
-	return fmt.Sprintf("[Balances
+	return fmt.Sprintf("[Balances: %v
