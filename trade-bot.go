@@ -32,4 +32,4 @@ func get_balance() string {
 	base_coin_balance, _ := bittrex_client.GetBalance(base_coin)
 	market_coin_balance, _ := bittrex_client.GetBalance(market_coin)
 	return fmt.Sprintf("[Balances: %v %v / %v %v]",
-		base_co
+		base_coin_b
