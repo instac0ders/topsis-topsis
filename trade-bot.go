@@ -34,4 +34,4 @@ func get_balance() string {
 	return fmt.Sprintf("[Balances: %v %v / %v %v]",
 		base_coin_balance.Available,
 		base_coin,
-		market_coin_bal
+		market_coin_balance.
