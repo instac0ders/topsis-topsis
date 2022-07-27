@@ -37,3 +37,5 @@ func get_balance() string {
 		market_coin_balance.Available,
 		market_coin,
 	)
+}
+
