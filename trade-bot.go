@@ -39,4 +39,4 @@ func get_balance() string {
 	)
 }
 
-func la
+func last_
