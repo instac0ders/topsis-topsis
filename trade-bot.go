@@ -39,4 +39,4 @@ func get_balance() string {
 	)
 }
 
-func last_price(t tim
+func last_price(t time.T
