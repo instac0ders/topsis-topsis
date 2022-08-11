@@ -40,4 +40,4 @@ func get_balance() string {
 }
 
 func last_price(t time.Time) {
-	// Using 
+	// Using deci
