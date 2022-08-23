@@ -41,4 +41,4 @@ func get_balance() string {
 
 func last_price(t time.Time) {
 	// Using decimal package for accuracy
-	ticker, _ := b
+	ticker, _ := bittr
