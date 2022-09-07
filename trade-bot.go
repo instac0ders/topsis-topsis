@@ -42,4 +42,4 @@ func get_balance() string {
 func last_price(t time.Time) {
 	// Using decimal package for accuracy
 	ticker, _ := bittrex_client.GetTicker(base_coin + "-" + market_coin)
-	last_sell := decimal.NewFromFloat(las
+	last_sell := decimal.NewFromFloat(last_sel
