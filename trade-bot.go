@@ -44,4 +44,4 @@ func last_price(t time.Time) {
 	ticker, _ := bittrex_client.GetTicker(base_coin + "-" + market_coin)
 	last_sell := decimal.NewFromFloat(last_sell)
 	last_bid := ticker.Bid
-	net_diff := fmt.Sprint(((last_
+	net_diff := fmt.Sprint(((last_bi
