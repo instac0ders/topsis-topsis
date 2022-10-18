@@ -46,4 +46,4 @@ func last_price(t time.Time) {
 	last_bid := ticker.Bid
 	net_diff := fmt.Sprint(((last_bid.Sub(last_sell)).Div(last_sell)).Mul(decimal.NewFromFloat(100)))
 
-	fmt.Printf("[
+	fmt.Printf("[+] Las
