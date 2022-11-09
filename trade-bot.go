@@ -47,4 +47,4 @@ func last_price(t time.Time) {
 	net_diff := fmt.Sprint(((last_bid.Sub(last_sell)).Div(last_sell)).Mul(decimal.NewFromFloat(100)))
 
 	fmt.Printf("[+] Last Bid: %v || Last Ask: %v || Last market sell: %v [ My last sell: %v Net diff: %v ] %v\n",
-		ticker.B
+		ticker.Bid,
