@@ -49,4 +49,4 @@ func last_price(t time.Time) {
 	fmt.Printf("[+] Last Bid: %v || Last Ask: %v || Last market sell: %v [ My last sell: %v Net diff: %v ] %v\n",
 		ticker.Bid,
 		ticker.Ask,
-		ticker.
+		ticker.Las
