@@ -50,4 +50,4 @@ func last_price(t time.Time) {
 		ticker.Bid,
 		ticker.Ask,
 		ticker.Last,
-		last_se
+		last_sell,
