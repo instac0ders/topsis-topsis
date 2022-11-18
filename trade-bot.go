@@ -51,4 +51,5 @@ func last_price(t time.Time) {
 		ticker.Ask,
 		ticker.Last,
 		last_sell,
-		net_d
+		net_diff,
+	
