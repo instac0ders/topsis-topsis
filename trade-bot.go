@@ -52,4 +52,4 @@ func last_price(t time.Time) {
 		ticker.Last,
 		last_sell,
 		net_diff,
-	
+		
