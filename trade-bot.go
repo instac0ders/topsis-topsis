@@ -52,4 +52,5 @@ func last_price(t time.Time) {
 		ticker.Last,
 		last_sell,
 		net_diff,
-		get_balance(
+		get_balance(),
+	
