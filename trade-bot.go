@@ -56,4 +56,4 @@ func last_price(t time.Time) {
 	)
 }
 
-fu
+func 
