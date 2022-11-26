@@ -53,4 +53,4 @@ func last_price(t time.Time) {
 		last_sell,
 		net_diff,
 		get_balance(),
-	
+	)
