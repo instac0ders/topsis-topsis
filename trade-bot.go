@@ -57,4 +57,4 @@ func last_price(t time.Time) {
 }
 
 func main() {
-	fmt.Println("****** Starting 
+	fmt.Println("****** Starting Cobranix
