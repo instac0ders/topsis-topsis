@@ -58,4 +58,4 @@ func last_price(t time.Time) {
 
 func main() {
 	fmt.Println("****** Starting Cobranix Crypto Trader ******\n")
-	fmt.Println("[+] The base_c
+	fmt.Println("[+] The base_coin i
