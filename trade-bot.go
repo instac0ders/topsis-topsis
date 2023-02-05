@@ -61,4 +61,4 @@ func main() {
 	fmt.Println("[+] The base_coin is: " + base_coin)
 	fmt.Println("[+] The market_coin is: " + market_coin)
 	fmt.Println("[+] The api_version is: " + api_version)
-	fmt.Pr
+	fmt.Prin
