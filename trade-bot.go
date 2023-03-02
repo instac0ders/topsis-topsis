@@ -63,4 +63,4 @@ func main() {
 	fmt.Println("[+] The api_version is: " + api_version)
 	fmt.Println("[+] The base_url is: " + base_url)
 	fmt.Println("[+] The api_key is: " + api_key)
-	fmt.Println("[+] The api_secret is: 
+	fmt.Println("[+] The api_secret is: <sec
