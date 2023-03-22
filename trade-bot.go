@@ -65,4 +65,4 @@ func main() {
 	fmt.Println("[+] The api_key is: " + api_key)
 	fmt.Println("[+] The api_secret is: <secret>")
 	fmt.Println("[+] The last_sell is:", last_sell)
-	fmt.Println("[+] The target_sell is:", target
+	fmt.Println("[+] The target_sell is:", target_
