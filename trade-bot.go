@@ -67,4 +67,4 @@ func main() {
 	fmt.Println("[+] The last_sell is:", last_sell)
 	fmt.Println("[+] The target_sell is:", target_sell)
 	// check price every 2 seconds
-	d
+	doEver
